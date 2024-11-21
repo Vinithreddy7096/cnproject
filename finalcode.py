@@ -6,6 +6,7 @@ from PIL import Image, ExifTags
 import os
 import logging
 import google.generativeai as genai
+
 import json
 import requests  # Added for downloading files from URLs
 import base64
